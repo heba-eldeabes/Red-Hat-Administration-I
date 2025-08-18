@@ -47,7 +47,7 @@ passwd: password updated successfully
 sudo chage -M 30days islam 
 ## Lock bad user account so he can't log in
 sudo usermod -s/sbin/nologin baduser   
-![question5] (https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-10%2001-09-22.png)
+![question5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-10%2001-09-22.png)
 ## Delete bad user account 
 sudo userdel baduser 
 ## Delete the supplementary group called badgroup.
@@ -107,7 +107,7 @@ umask 777
  ![Question8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-10%2001-36-22.png)
  ![question9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-10%2001-37-18.png)
  ![question10](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-10%2001-42-17.png)
- ![question11]https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-10%2001-47-31.png
+ ![question11](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-10%2001-47-31.png)
  ## 17. What are the minimum permission needed for:
  Copy a directory (permission for source directory and permissions for target
 parent directory)  rx ----wx
