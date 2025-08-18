@@ -14,7 +14,7 @@
  New password:
 Retype new password:
 passwd: password updated successfully  
- ![question1]()
+![question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-09%2023-20-37.png)
  ##  2:Create a user account with the following attribute
  Username: baduser
  Full name/comment: Bad User
