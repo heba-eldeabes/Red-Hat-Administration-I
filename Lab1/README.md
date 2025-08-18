@@ -47,7 +47,8 @@ docs
 
 ## Remove dir11 in one-step. What did you notice? And how did you overcome that? 
     rm -r dir1/dir11  
-    ![Question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-07-31%2023-08-06.png) 
+
+![Question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-07-31%2023-08-06.png) 
 
  ## then remove dir12 using rmdir –p command. State what happened to the
  ## hierarchy (Note: you are in your home directory ). 
