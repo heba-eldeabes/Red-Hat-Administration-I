@@ -43,14 +43,17 @@
 
 
 ## -Log out and log in by another user
-
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-42-30.png)
+ 
 
  ## Try to access (by cd command) the folder (myteam) 
-
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-37-10.png)
 ## Using the command Line
 ##  Change the permissions of oldpasswd file to give owner read and write
 ## permissions and for group write and execute and execute only for the others
-##  using chmod in 2 different ways
+##  using chmod in 2 different ways 
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-47-56.png)
+
   
  
  ## 17. What are the minimum permission needed for:
