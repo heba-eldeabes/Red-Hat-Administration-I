@@ -54,12 +54,13 @@
 ##  using chmod in 2 different ways 
 ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-47-56.png)
 # Change your default permissions to be as above. 
-![img]()
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-50-52.png)
 # What is the maximum permission a file can have, by default when it is just
  # created? And what is that for directory.
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-58-23.png)
 # Change your default permissions to be no permission to everyone then create a
  # directory and a file to verify.
-
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-20%2000-14-32.png)
  
  ## 17. What are the minimum permission needed for:
  Copy a directory (permission for source directory and permissions for target
