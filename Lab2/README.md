@@ -2,11 +2,14 @@
  username: islam
  Fullname/comment: Islam Askar
  Password: islam 
- 
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-26-07.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-35-56.png)
  ##  2:Create a user account with the following attribute
  Username: baduser
  Full name/comment: Bad User
- Password: baduser 
+ Password: baduser  
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-32-10.png)
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-35-20.png)
   
 ## Create a supplementary (Secondary) group called pgroup with group ID of 30000 
 
