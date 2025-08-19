@@ -20,79 +20,40 @@
 ![Question2](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-32-07.png)
 
 ## Remove dir11 in one-step. What did you notice? And how did you overcome that? 
-    rm -r dir1/dir11  
+    
 
-![Question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-07-31%2023-08-06.png) 
+![Question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-47-42.png) 
 
  ## then remove dir12 using rmdir –p command. State what happened to the
  ## hierarchy (Note: you are in your home directory ). 
- rmdir -p  dir1/dir12
+ ![question](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-48-39.png)
 will remove dir12 and dir1 because dir1 
  -p, --parents 
    remove DIRECTORY and its ancestors; e.g., 'rmdir -p a/b' is sim‐ilar to 'rmdir a/b a'  
   ## The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv 
-  absolute  path   /home/heba/docs/mycv
- relative path    docs/mycv
+  ![question](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-44-15.png)
               
   ## Copy the /etc/passwd file to your home directory making its name is mypasswd
-  cp /etc/passwd ~/mypasswd 
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-57-32.png)
+  
   ##  Rename this new file to be oldpasswd. 
-    mv mypasswd oldpasswd 
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-58-53.png)
  ## You are in /usr/bin, list four ways to go to your home directory 
-
- 1.cd
-pwd
-/home/heba
- cd /usr/bin/   -----> cd -
-2. cd ~ 
-pwd
-/home/heba
- cd /usr/bin/
-3. cd ~heba
-  pwd
-  /home/heba
- cd /usr/bin/
-pwd
-4.cd /home/heba
- pwd
-/home/heba
-cd /usr/bin/
-pwd
-5.cd $HOME
-pwd
-/home/heba 
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-05-46.png)
+ 
  ## List Linux commands in /usr/bin that start with letter w 
-  ls /usr/bin/w* 
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-12-17.png)
   ## Display the first 4 lines of /etc/passwd
-  $ head -4 /etc/passwd
-root:x:0:0:root:/root:/bin/bash
-daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
-bin:x:2:2:bin:/bin:/usr/sbin/nologin
-sys:x:3:3:sys:/dev:/usr/sbin/nologin
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-14-47.png)
 ## .Display the last 7 lines of /etc/passwd 
-tail -7 /etc/passwd
-  colord:x:118:120:colord colour management daemon,,,:/var/lib/colord:/usr/sbin/nologin
-gnome-initial-setup:x:119:65534::/run/gnome-initial-setup/:/bin/false
-gdm:x:120:121:Gnome Display Manager:/var/lib/gdm3:/bin/false
-nm-openvpn:x:121:122:NetworkManager OpenVPN,,,:/var/lib/openvpn/chroot:/usr/sbin/nologin
-heba:x:1000:1000:Heba:/home/heba:/bin/bash
-snapd-range-524288-root:x:524288:524288::/nonexistent:/usr/bin/false
-snap_daemon:x:584788:584788::/nonexistent:/usr/bin/false 
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-15-41.png)
  ## .Display the man pages of passwd the command and the file sequentially in one command 
- man -a passwd 
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-16-35.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-16-23.png)
   ## Display the man  page of the passwd file. 
-   man -s5 passwd  
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-17-22.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-17-10.png)
  
   ## Display a list of all the commands that contain the keyword passwd in their man page  .
-   man -k passwd
-
-whatis passwd
-
-passwd (1)           - change user password
-passwd (1ssl)        - OpenSSL application commands
-passwd (5)           - the password file
-whatis -s1 passwd 
-passwd (1)           - change user password
-passwd (1ssl)        - OpenSSL application commands
-
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-18-00.png)
  
