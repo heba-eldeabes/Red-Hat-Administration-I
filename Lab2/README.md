@@ -23,7 +23,7 @@
  
 ![question4](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-09%2023-29-09.png)
 ## Modify islam's account so the password expires after 30 days
-sudo chage -M 30days islam 
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2017-41-26.png)
 ## Lock bad user account so he can't log in   
 ![question5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-10%2001-09-22.png)
 ## Delete bad user account 
