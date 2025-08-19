@@ -30,15 +30,16 @@
 ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-00-24.png)
 
 ## Lock bad user account so he can't log in   
-
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-11-30.png)
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-16-04.png)
 ## Delete bad user account 
-
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-17-08.png)
 ## Delete the supplementary group called badgroup.
- 
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-18-34.png)
 
  ## Create a folder called myteam in your home directory and change its permissions to
  ## read only for the owner. 
-
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-25-17.png)
 
 
 ## -Log out and log in by another user
