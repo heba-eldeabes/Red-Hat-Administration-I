@@ -26,7 +26,7 @@
 
  ## then remove dir12 using rmdir –p command. State what happened to the
  ## hierarchy (Note: you are in your home directory ). 
- ![question](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-48-39.png)
+ ![question](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-50-27.png)
 will remove dir12 and dir1 because dir1 
  -p, --parents 
    remove DIRECTORY and its ancestors; e.g., 'rmdir -p a/b' is sim‐ilar to 'rmdir a/b a'  
@@ -48,8 +48,8 @@ will remove dir12 and dir1 because dir1
 ## .Display the last 7 lines of /etc/passwd 
 ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-15-41.png)
  ## .Display the man pages of passwd the command and the file sequentially in one command 
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-16-35.png)
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-16-23.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-52-44.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-52-27.png)
   ## Display the man  page of the passwd file. 
   ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-17-22.png)
  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-17-10.png)
