@@ -53,8 +53,13 @@
 ## permissions and for group write and execute and execute only for the others
 ##  using chmod in 2 different ways 
 ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-47-56.png)
+# Change your default permissions to be as above. 
+![img]()
+# What is the maximum permission a file can have, by default when it is just
+ # created? And what is that for directory.
+# Change your default permissions to be no permission to everyone then create a
+ # directory and a file to verify.
 
-  
  
  ## 17. What are the minimum permission needed for:
  Copy a directory (permission for source directory and permissions for target
@@ -66,7 +71,8 @@ directory) r------------wx
  List a directory content (ls command) r
  View a file content (more/cat command) r
  Modify a file content  rw
- ## 18- 
+ ## 18- Create a file with permission 444. Try to edit in it and to remove it? Note what happend ?
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2023-04-35.png) 
  
  
  ## What is the difference between the “x” permission for a file and for a
