@@ -19,12 +19,15 @@
     
  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-50-41.png)
  ## Add islam user to the pgroup group as a supplementary group
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-55-25.png)
  
- 
- ## Modify the password of islam's account to password
+ ## Modify the password of islam's account to password 
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-56-29.png)
  
 
 ## Modify islam's account so the password expires after 30 days
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-58-07.png)
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2022-00-24.png)
 
 ## Lock bad user account so he can't log in   
 
