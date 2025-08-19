@@ -12,7 +12,8 @@
 ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-35-20.png)
   
 ## Create a supplementary (Secondary) group called pgroup with group ID of 30000 
-
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-46-20.png)
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-46-46.png)
  
  ## Create a supplementary group called badgroup
     
