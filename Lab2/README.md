@@ -17,7 +17,7 @@
  
  ## Create a supplementary group called badgroup
     
- 
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2021-50-41.png)
  ## Add islam user to the pgroup group as a supplementary group
  
  
