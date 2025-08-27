@@ -16,8 +16,5 @@
  3::/age 
  4:n NUMBER OF THE LINE :5
  5:n,nd  4,5d 
- 6:USING :G    
-  # 3. List the available shells in your system.
-  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Screenshot%20from%202025-08-27%2020-40-09.png) 
-   # 3. List the available shells in your system.
-  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Screenshot%20from%202025-08-27%2020-40-09.png)
+ 6:USING :G  
+ 
