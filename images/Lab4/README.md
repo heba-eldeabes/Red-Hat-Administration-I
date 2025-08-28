@@ -12,4 +12,8 @@
  # .bash_profile. Second: sorts the output of ls command on / recursively, Saving
  # their output and error in 2 different files and sending them to the background. 
 ![img6](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2021-59-38.png)
-![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-00-27.png)
+![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-00-27.png) 
+# Display the number of users who is logged now to the system.
+![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-08-38.png)
+# Display lines 7 to line 10 of /etc/passwd file
+![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-11-14.png)
