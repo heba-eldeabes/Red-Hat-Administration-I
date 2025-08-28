@@ -33,3 +33,8 @@
   ![img6](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-53-22.png)
   ![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-53-35.png) 
   ![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-58-26.png)
+  # 10.Execute the following command :
+ # echo \ then press enter
+ # What is the purpose of \ ?
+ # Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
+ ![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2019-08-11.png)
