@@ -26,4 +26,10 @@
  # What are the commands that list the value of a specific variable?
  ![img4](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-38-04.png) 
  # Display your current shell name.
-  ![img5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-39-36.png)
+  ![img5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-39-36.png) 
+  # State the initialization files of: sh, ksh, bash. 
+
+  # Edit in your profile to display date at login and change your prompt permanently
+  ![img6](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-53-22.png)
+  ![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-53-35.png) 
+  ![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-58-26.png)
