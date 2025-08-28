@@ -23,3 +23,7 @@
  ![img2](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2021-32-11.png) 
  # List all of the environment variables for the bash shell
  ![img3](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-32-38.png)
+ # What are the commands that list the value of a specific variable?
+ ![img4](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-38-04.png) 
+ # Display your current shell name.
+  ![img5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-39-36.png)
