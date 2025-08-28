@@ -17,3 +17,26 @@
 ![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-08-38.png)
 # Display lines 7 to line 10 of /etc/passwd file
 ![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-11-14.png)
+# What happens if you execute:
+ # cat filename1 | cat filename2
+# ls | rm
+# ls /etc/passwd | wc –l
+![img10](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-15-59.png)
+![img11](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-16-50.png)
+![img12](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-17-49.png)
+ # Issue the command sleep 100.
+ # 11.Stop the last command.
+ # 12.Resume the last command in the background
+ # 13.Issue the jobs command and see its output.
+ # 14.Send the sleep command to the foreground and send it again to the background.
+ # 15.Kill the sleep command.
+
+ ![img13](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-28-43.png)
+ # 16.Display your processes only
+  ![img14](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-33-48.png)
+ # Display all processes except yours
+ ![img15](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-40-38.png)
+# .Use the pgrep command to list your processes only
+![img16](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-36-00.png)
+ # Kill your processes only 
+ ![img17](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2022-46-04.png)
