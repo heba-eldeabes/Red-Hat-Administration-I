@@ -20,4 +20,4 @@
  # List the available shells in your system.
  ![img1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2020-40-09.png) 
  # List the environment variables in your current shell.
- ![img2]https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2021-32-11.png() 
+ ![img2](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2021-32-11.png) 
