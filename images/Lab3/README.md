@@ -17,4 +17,5 @@
  4:n NUMBER OF THE LINE :5
  5:n,nd  4,5d 
  6:USING :G  
- 
+ # List the available shells in your system.
+ ![img1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2020-40-09.png) 
