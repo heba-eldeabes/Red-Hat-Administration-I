@@ -38,3 +38,4 @@
  # What is the purpose of \ ?
  # Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
  ![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2019-08-11.png)
+# Create a Bash shell alias named ls for the “ls –l” command
