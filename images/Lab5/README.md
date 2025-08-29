@@ -24,14 +24,14 @@
 # 7. Write a command to search for all files on the system that, its name is “.profile”.
 ![img16](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-17-16.png)
 # 8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
-![img17](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-17-16.png)
+![img17](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-24-07.png)
 # 9. List the inode numbers of /, /etc, /etc/hosts.
-![img18](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-17-16.png)
+![img18](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-25-46.png)
 # 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
 # file you copied, and then use these commands again, and check the output.
-![img19](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-17-16.png)
+![img19](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-35-59.png)
 # 11. Create a symbolic link of /etc/passwd in /boot.
-![img20](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-17-16.png)
-![img21](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-17-16.png)
+![img20](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2023-16-58.png)
+![img21](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2023-17-30.png)
 # 12. Create a hard link of /etc/passwd in /boot. Could you? Why?
-![img22](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-17-16.png)
+![img22](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-29%2017-40-37.png)
