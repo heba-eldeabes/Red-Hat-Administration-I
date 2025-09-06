@@ -11,13 +11,13 @@
  ## d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
  ## e. Delete the line you are on and line 5.
 ## f. How to step to the end of line and change to writing mode in one-step.  
- 1:by using j
- 2:by using k 
- 3::/age 
- 4:n NUMBER OF THE LINE :5
- 5:n,nd  4,5d 
- 6:USING :G  
- # List the available shells in your system.
+ #### 1:by using j
+ #### 2:by using k 
+ #### 3::/age 
+ #### 4:n NUMBER OF THE LINE :5
+ #### 5: dd  :5  dd
+ #### 6:USING :A  
+ # 3.List the available shells in your system.
  ![img1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2020-40-09.png) 
  # List the environment variables in your current shell.
  ![img2](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2021-32-11.png) 
