@@ -18,24 +18,25 @@
  #### 5: dd  :5  dd
  #### 6:USING :A  
  # 3.List the available shells in your system.
- ![img1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2020-40-09.png) 
+ ![img1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-27%2020-40-09.png) 
  # List the environment variables in your current shell.
- ![img2](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-27%2021-32-11.png) 
+ ![img2](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-27%2021-32-11.png) 
  # List all of the environment variables for the bash shell
- ![img3](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-32-38.png)
+ ![img3](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-32-38.png)
  # What are the commands that list the value of a specific variable?
- ![img4](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-38-04.png) 
+ ![img4](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-38-04.png) 
  # Display your current shell name.
-  ![img5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-39-36.png) 
+  ![img5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-39-36.png) 
   # State the initialization files of: sh, ksh, bash. 
 
   # Edit in your profile to display date at login and change your prompt permanently
-  ![img6](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-53-22.png)
-  ![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-53-35.png) 
-  ![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2018-58-26.png)
+  ![img6](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-53-22.png)
+  ![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-53-35.png) 
+  ![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-58-26.png)
   # 10.Execute the following command :
  # echo \ then press enter
  # What is the purpose of \ ?
  # Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
- ![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/images/Screenshot%20from%202025-08-28%2019-08-11.png)
-# Create a Bash shell alias named ls for the “ls –l” command
+ ![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2019-08-11.png)
+# Create a Bash shell alias named ls for the “ls –l” command 
+![img10]()
