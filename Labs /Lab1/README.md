@@ -16,17 +16,17 @@
  ## mycv
  ## file1
 
-  ![question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-10-55.png)
-![Question2](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-32-07.png)
+  ![question1]()
+![Question2]()
 
 ## Remove dir11 in one-step. What did you notice? And how did you overcome that? 
     
 
-![Question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-47-42.png) 
+![Question1]() 
 
  ## then remove dir12 using rmdir –p command. State what happened to the
  ## hierarchy (Note: you are in your home directory ). 
- ![question](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-50-27.png)
+ ![question]()
 will remove dir12 and dir1 because dir1 
  -p, --parents 
    remove DIRECTORY and its ancestors; e.g., 'rmdir -p a/b' is sim‐ilar to 'rmdir a/b a'  
