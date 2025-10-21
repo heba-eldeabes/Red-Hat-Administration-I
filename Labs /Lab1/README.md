@@ -16,44 +16,44 @@
  ## mycv
  ## file1
 
-  ![question1]()
-![Question2]()
+  ![question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2015-10-55.png)
+![Question2](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2015-32-07.png)
 
 ## Remove dir11 in one-step. What did you notice? And how did you overcome that? 
     
 
-![Question1]() 
+![Question1](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2015-47-42.png) 
 
  ## then remove dir12 using rmdir –p command. State what happened to the
  ## hierarchy (Note: you are in your home directory ). 
- ![question]()
+ ![question](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2015-48-39.png)
 will remove dir12 and dir1 because dir1 
  -p, --parents 
    remove DIRECTORY and its ancestors; e.g., 'rmdir -p a/b' is sim‐ilar to 'rmdir a/b a'  
   ## The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv 
-  ![question]()
+  ![question](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2015-44-15.png)
               
   ## Copy the /etc/passwd file to your home directory making its name is mypasswd
-  ![img]()
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2015-57-32.png)
   
   ##  Rename this new file to be oldpasswd. 
-  ![img]()
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2015-58-53.png)
  ## You are in /usr/bin, list four ways to go to your home directory 
-![img]()
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-05-46.png)
  
  ## List Linux commands in /usr/bin that start with letter w 
- ![img]()
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-12-17.png)
   ## Display the first 4 lines of /etc/passwd
- ![img]()
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-14-47.png)
 ## .Display the last 7 lines of /etc/passwd 
-![img]()
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-15-41.png)
  ## .Display the man pages of passwd the command and the file sequentially in one command 
- ![img]()
- ![img]()
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-16-35.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-16-23.png)
   ## Display the man  page of the passwd file. 
-  ![img]()
- ![img]()
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-17-22.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-17-10.png)
  
   ## Display a list of all the commands that contain the keyword passwd in their man page  .
-  ![img]()
+  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-18-00.png)
  
