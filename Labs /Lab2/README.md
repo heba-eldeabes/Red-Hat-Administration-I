@@ -25,7 +25,7 @@
  
 
 ## Modify islam's account so the password expires after 30 days
-![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2017-41-26.png)
+![img]()
 
 
 ## Lock bad user account so he can't log in   
