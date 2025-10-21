@@ -31,29 +31,29 @@ will remove dir12 and dir1 because dir1
  -p, --parents 
    remove DIRECTORY and its ancestors; e.g., 'rmdir -p a/b' is sim‐ilar to 'rmdir a/b a'  
   ## The output of the command pwd was /home/user. Write the absolute and relative path for the file mycv 
-  ![question](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-44-15.png)
+  ![question]()
               
   ## Copy the /etc/passwd file to your home directory making its name is mypasswd
-  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-57-32.png)
+  ![img]()
   
   ##  Rename this new file to be oldpasswd. 
-  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2015-58-53.png)
+  ![img]()
  ## You are in /usr/bin, list four ways to go to your home directory 
-![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-05-46.png)
+![img]()
  
  ## List Linux commands in /usr/bin that start with letter w 
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-12-17.png)
+ ![img]()
   ## Display the first 4 lines of /etc/passwd
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-14-47.png)
+ ![img]()
 ## .Display the last 7 lines of /etc/passwd 
-![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-15-41.png)
+![img]()
  ## .Display the man pages of passwd the command and the file sequentially in one command 
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-52-44.png)
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-52-27.png)
+ ![img]()
+ ![img]()
   ## Display the man  page of the passwd file. 
-  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-17-22.png)
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-17-10.png)
+  ![img]()
+ ![img]()
  
   ## Display a list of all the commands that contain the keyword passwd in their man page  .
-  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/images/Screenshot%20from%202025-08-19%2016-18-00.png)
+  ![img]()
  
