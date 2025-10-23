@@ -27,7 +27,7 @@
 # 8. Identify the file types of the following: /etc/passwd, /dev/pts/0, /etc, /dev/sda
 ![img17](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-29%2017-24-07.png)
 # 9. List the inode numbers of /, /etc, /etc/hosts.
-![img18](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-29%2017-25-46.png)
+![img18](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-26-40.png)
 # 10. Copy /etc/passwd to your home directory, use the commands diff and cmp, and Edit in the
 # file you copied, and then use these commands again, and check the output.
 ![img19](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-29%2017-35-59.png)
