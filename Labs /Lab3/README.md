@@ -30,9 +30,8 @@
   # State the initialization files of: sh, ksh, bash. 
 
   # Edit in your profile to display date at login and change your prompt permanently
-
-  ![img6](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-36-15.png)
-  ![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-53-35.png) 
+  ![img6](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-53-22.png)
+  ![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-36-15.png) 
   ![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2018-58-26.png)
   # 10.Execute the following command :
  # echo \ then press enter
