@@ -5,9 +5,9 @@
 # Get all the users names whose first character in their login is ‘g’. 
 ![img3](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2019-30-23.png)
 # Get the logins name and full names (comment) of logins starts with “g”
-![img4](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2019-33-28.png)
+![img4](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-50-39.png)
 # Save the output of the last command sorted by their full names in a file.
-![img5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2019-49-27.png) 
+![img5](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-53-39.png) 
  # Write two commands: first: to search for all files on the system that named
  # .bash_profile. Second: sorts the output of ls command on / recursively, Saving
  # their output and error in 2 different files and sending them to the background. 
