@@ -13,7 +13,8 @@
 # 2. What is the command used to view the content of a compressed file.
 ![img10](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-29%2016-49-35.png)
 # 3. Backup /etc directory using tar utility.
-![img11]()
+![img11](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-23-34.png)
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-21-11.png)
 # 4. Starting from your home directory, find all files that were modified in the last two day.
 ![img12](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-29%2017-08-57.png)
 ![img13](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-29%2017-07-29.png)
