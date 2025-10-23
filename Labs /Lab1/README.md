@@ -48,8 +48,9 @@ will remove dir12 and dir1 because dir1
 ## .Display the last 7 lines of /etc/passwd 
 ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-15-41.png)
  ## .Display the man pages of passwd the command and the file sequentially in one command 
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-16-35.png)
- ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-16-23.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-26-01.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-25-27.png)
+ ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-25-47.png)
   ## Display the man  page of the passwd file. 
   ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-17-22.png)
  ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-19%2016-17-10.png)
