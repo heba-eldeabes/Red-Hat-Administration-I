@@ -32,7 +32,6 @@
 # file you copied, and then use these commands again, and check the output.
 ![img19](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-29%2017-35-59.png)
 # 11. Create a symbolic link of /etc/passwd in /boot.
-![img20](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2023-16-58.png)
-![img21](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2023-17-30.png)
+![img20](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-31-13.png)
 # 12. Create a hard link of /etc/passwd in /boot. Could you? Why?
 ![img22](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-29%2017-40-37.png)
