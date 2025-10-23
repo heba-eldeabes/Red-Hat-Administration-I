@@ -14,7 +14,8 @@
 ![img6](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-58-53.png)
 ![img7](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-03-55.png) 
 # Display the number of users who is logged now to the system.
-![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2022-08-38.png)
+![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-09-09.png)
+![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-09-38.png)
 # Display lines 7 to line 10 of /etc/passwd file
 ![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2022-11-14.png)
 # What happens if you execute:
