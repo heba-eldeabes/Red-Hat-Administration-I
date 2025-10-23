@@ -39,4 +39,4 @@
  # Notice the prompt ”>” what is that? and how can you change it from “>” to “:”.
  ![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-37-40.png)
 # Create a Bash shell alias named ls for the “ls –l” command 
-![img10]()
+![img10](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2010-43-17.png)
