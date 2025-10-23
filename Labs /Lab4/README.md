@@ -34,7 +34,7 @@
 
  ![img13](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2022-28-43.png)
  # 16.Display your processes only
-  ![img14](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2022-33-48.png)
+  ![img14](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-15-23.png)
  # Display all processes except yours
  ![img15](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2022-40-38.png)
 # .Use the pgrep command to list your processes only
