@@ -17,7 +17,7 @@
 ![img8](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-09-09.png)
 ![img](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-09-38.png)
 # Display lines 7 to line 10 of /etc/passwd file
-![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-08-28%2022-11-14.png)
+![img9](https://github.com/heba-eldeabes/Red-Hat-Administration-I/blob/main/Labs%20/images/Screenshot%20from%202025-10-23%2011-11-57.png)
 # What happens if you execute:
  # cat filename1 | cat filename2
 # ls | rm
